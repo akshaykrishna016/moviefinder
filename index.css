@@ -1,0 +1,57 @@
+body{
+	background: #aca6c4;
+}
+
+.navbar{
+	width: 100%;
+	background: 
+}
+
+.material-icons.md-36{ 
+	font-size: 36px; 
+}
+
+.nav-item{
+	margin-left: 1em;
+}
+.search{
+	
+	padding: 1em;
+	margin-top: 1em;
+}
+.search-center{
+	
+	padding: 1em;
+	margin-top: 1em;
+	margin:auto;
+}
+.parameters{
+	background: #646172;
+}
+.search-button{
+	justify-content: center;
+}
+
+.btn{
+	margin-top:1em;
+
+
+	width: 40%;
+}
+.poster{
+	text-align: center;
+}
+
+.parameters{
+	margin-left: 0.03em;
+	margin-right: 0.03em;
+}
+
+@media screen and (max-width: 992px)
+{
+	.nav1{
+		margin-left: 0;
+		margin-bottom: 0.225em;
+		border-bottom:solid 0.06em white ;
+	}
+}
